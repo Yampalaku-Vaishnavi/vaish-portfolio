@@ -40,7 +40,7 @@ function App() {
                             ring-4 ring-white dark:ring-secondary-700 shadow-2xl 
                             hover-scale animate-float">
                 <img 
-                  src="/public/Vaishh.jpg" 
+                  src='/Vaishh.jpg' 
                   alt="Vaishnavi Yampalaku" 
                   className="w-full h-full object-cover"
                 />
